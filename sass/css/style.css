@@ -1,0 +1,11 @@
+html, body {
+  height: 100%;
+  width: 100%; }
+
+li {
+  background-color: #7f7f7f;
+  display: inline-block;
+  width: 5%;
+  height: 5px; }
+
+/*# sourceMappingURL=style.css.map */

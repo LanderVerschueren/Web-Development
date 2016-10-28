@@ -1,0 +1,16 @@
+$widthBullet: 5px;
+$heigthBullet: 5px;
+$fullWidthHeigth: 100%;
+$baseColor: #FEFEFE;
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+li {
+	background-color: darken( $baseColor, 50% );
+	display: inline-block;
+	width: $fullWidthHeigth / 20;
+	height: $heigthBullet;
+}
